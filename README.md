@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1833-find-the-highest-altitude](https://github.com/Be-Avatar/Programming/tree/master/1833-find-the-highest-altitude) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Be-Avatar/Programming/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4271-find-the-degree-of-each-vertex](https://github.com/Be-Avatar/Programming/tree/master/4271-find-the-degree-of-each-vertex) |
 ## Graph Theory
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4321-digit-frequency-score](https://github.com/Be-Avatar/Programming/tree/master/4321-digit-frequency-score) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/Be-Avatar/Programming/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
