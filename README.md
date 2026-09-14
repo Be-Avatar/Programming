@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [4299-concatenate-array-with-reverse](https://github.com/Be-Avatar/Programming/tree/master/4299-concatenate-array-with-reverse) |
 | [4332-check-good-integer](https://github.com/Be-Avatar/Programming/tree/master/4332-check-good-integer) |
 ## String
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Be-Avatar/Programming/tree/master/1833-find-the-highest-altitude) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Be-Avatar/Programming/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4271-find-the-degree-of-each-vertex](https://github.com/Be-Avatar/Programming/tree/master/4271-find-the-degree-of-each-vertex) |
+| [4299-concatenate-array-with-reverse](https://github.com/Be-Avatar/Programming/tree/master/4299-concatenate-array-with-reverse) |
 ## Graph Theory
 |  |
 | ------- |
