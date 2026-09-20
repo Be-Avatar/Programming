@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Be-Avatar/Programming/tree/master/0682-baseball-game) |
 | [4299-concatenate-array-with-reverse](https://github.com/Be-Avatar/Programming/tree/master/4299-concatenate-array-with-reverse) |
 | [4332-check-good-integer](https://github.com/Be-Avatar/Programming/tree/master/4332-check-good-integer) |
 ## String
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Be-Avatar/Programming/tree/master/0682-baseball-game) |
 | [1833-find-the-highest-altitude](https://github.com/Be-Avatar/Programming/tree/master/1833-find-the-highest-altitude) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Be-Avatar/Programming/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4271-find-the-degree-of-each-vertex](https://github.com/Be-Avatar/Programming/tree/master/4271-find-the-degree-of-each-vertex) |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/Be-Avatar/Programming/tree/master/0866-rectangle-overlap) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Be-Avatar/Programming/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
