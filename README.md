@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Be-Avatar/Programming/tree/master/0069-sqrtx) |
 | [0866-rectangle-overlap](https://github.com/Be-Avatar/Programming/tree/master/0866-rectangle-overlap) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Be-Avatar/Programming/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/Be-Avatar/Programming/tree/master/2032-largest-odd-number-in-string) |
 | [2556-convert-the-temperature](https://github.com/Be-Avatar/Programming/tree/master/2556-convert-the-temperature) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Be-Avatar/Programming/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
