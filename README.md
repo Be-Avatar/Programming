@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Be-Avatar/Programming/tree/master/0682-baseball-game) |
+| [3811-reverse-degree-of-a-string](https://github.com/Be-Avatar/Programming/tree/master/3811-reverse-degree-of-a-string) |
 | [4299-concatenate-array-with-reverse](https://github.com/Be-Avatar/Programming/tree/master/4299-concatenate-array-with-reverse) |
 | [4332-check-good-integer](https://github.com/Be-Avatar/Programming/tree/master/4332-check-good-integer) |
 ## String
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/Be-Avatar/Programming/tree/master/2032-largest-odd-number-in-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Be-Avatar/Programming/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3811-reverse-degree-of-a-string](https://github.com/Be-Avatar/Programming/tree/master/3811-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
